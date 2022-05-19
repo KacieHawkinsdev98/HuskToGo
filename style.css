@@ -1,0 +1,170 @@
+.background{
+    background-color:blanchedalmond;
+}
+
+
+.navbar{
+    width:85%;
+    margin:auto;
+    padding: 10px;
+    display:flex;
+    align-items: center;
+    align-content: flex-end;
+    justify-content: right;
+
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+
+
+}
+
+.ordernow button {
+    
+
+    background-color:orange;
+    border-radius: 9px;
+    color: beige;
+    border: none;
+    font-size: 18px; 
+    float: right;
+    padding: 9px 25px;
+    
+}
+
+
+.about-us {
+
+    display: flex;
+    margin-top: 100px;
+    justify-content: flex-start;
+    background-color: rgb(243, 243, 243);
+
+  }
+
+.about-us img {
+
+    height: 600px;
+    width: 600px;
+    max-width: 100%;
+    align-items: stretch;
+
+}
+
+.about-us p {
+    font-family: 'Bowlby One',  cursive;
+    font-size: xx-large;
+  
+}
+
+
+.display-food {
+
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 50px;
+    margin-right: 100px;
+    margin: 100px;
+    border: 5px;
+    padding: 5px;
+    height: 100;
+    width: 100;
+    gap: 10px;
+    text-align: center;
+
+
+}
+
+.img1 { 
+
+    height:250px;
+    width: 250px;
+
+}
+.img2 { 
+
+    height:250px;
+    width: 250px;
+
+}
+.img3 { 
+
+    height:250px;
+    width: 250px;
+
+}
+.img4 { 
+
+    height:250px;
+    width: 250px;
+
+}
+.img5 { 
+
+    height:250px;
+    width: 250px;
+
+}
+.img6 { 
+
+    height:250px;
+    width: 250px;
+
+}
+.img7 { 
+
+    height:250px;
+    width: 250px;
+
+}
+.img8 { 
+
+    height:250px;
+    width: 250px;
+
+}
+.img9 { 
+
+    height:250px;
+    width: 250px;
+
+}
+.img10 { 
+
+    height:250px;
+    width: 250px;
+
+}
+
+.img11 { 
+
+    height:250px;
+    width: 250px;
+
+}
+
+
+.img12 { 
+
+    height:250px;
+    width: 250px;
+
+}
+
+
+
+
+
+
+
